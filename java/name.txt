@@ -3,5 +3,5 @@ hai
 
 project title
 project description  and requirements
-project techstack (java,)
+project techstack (java,mongodb)
 
