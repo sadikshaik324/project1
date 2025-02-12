@@ -1,5 +1,4 @@
 hello
-hai
 
 project title
 project description  and requirements
