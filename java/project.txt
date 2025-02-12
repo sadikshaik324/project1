@@ -1,6 +1,6 @@
 project title
 project description  and requirements
 project techstack (java,mongodb)
-restapi or grpc  (restapi is best for web services  data serialization in from of json)
+restapi or grpc  (restapi is best for web services  data serialization in from of json, where grpc is best for microservices and faster than restapi because it is more efficent in data serialization in form of protobuf which is know as binary format )
 for  api testing  postman
 
